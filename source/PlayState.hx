@@ -354,6 +354,7 @@ class PlayState extends MusicBeatState
 					curStage = 'schoolEvil';
 				default:
 					curStage = 'stage';
+					
 			}
 		}
 
@@ -655,6 +656,8 @@ class PlayState extends MusicBeatState
 					bg.scale.set(6, 6);
 					bg.antialiasing = false;
 					add(bg);
+					
+					
 				}
 		}
 
