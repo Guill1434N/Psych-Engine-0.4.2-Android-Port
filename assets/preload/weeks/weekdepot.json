@@ -1,0 +1,30 @@
+{
+	"storyName": "hi lmao",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Ughdepot",
+			"depot",
+			[
+				246,
+				182,
+				4
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"tankman",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Weeklmao"
+}
